@@ -77,7 +77,6 @@ else:
 ```
 
 ### Output:
-
 ![ex-2-1](https://github.com/user-attachments/assets/cfa7ef86-6b73-4c07-84fa-d61184dbdf0e)
 ![ex-2-2](https://github.com/user-attachments/assets/fbd4d150-9120-4219-b13d-6288d57038a4)
 
